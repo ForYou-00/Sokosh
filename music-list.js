@@ -30,7 +30,7 @@ let allMusic = [
     src: "music-3"
   },
   {
-    name: " در این دنیای وارونه ام تویی تنها واسم هدیه ...",
+    name: " در این دنیای وارونه تویی تنها واسم هدیه ...",
     artist: "Amir Tataloo",
     img: "music-4",
     src: "music-4"
